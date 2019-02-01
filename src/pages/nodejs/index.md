@@ -1,4 +1,3 @@
-NodeJs
 ---
 templateKey: 'nodejs-page'
 path: /nodejs
