@@ -1,8 +1,14 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About GoodPlanner 선한기획자 박현준
+title: 선한기획자 박현준
 ---
-##선한기획자 박현준입니다.
+## 선한기획자 박현준입니다.
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+주식회사 블록비전에서 일하고 있는 선한기획자 박현준 입니다.
+비지니스기획과 소프트웨어 아키텍쳐 기획을 하고 있습니다.
+
+늘 평안하시길 기원합니다.
+감사합니다.~
+
+
