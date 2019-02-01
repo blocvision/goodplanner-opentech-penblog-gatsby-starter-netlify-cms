@@ -2,7 +2,7 @@
 
 templateKey: 'blog-post'
 title: '도커 기본개념 잡기 퀵스타트'
-date: 2019-02-01
+date: 2019-02-01T15:04:10.000Z
 description: >-
   도커의 기본적인 개념을 잡기 위한 퀵스타트 입니다.
 tags:
