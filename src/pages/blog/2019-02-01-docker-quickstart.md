@@ -71,7 +71,7 @@ $ docker images
 
 ## 컨테이너
 
-### 도커허브에서 nginx 이미지 이용하기
+### 도커허브에 있는 nginx 이미지 이용하기
 
 ```bash
 $ docker run --name nginx-test -p 8888:80 -d nginx
