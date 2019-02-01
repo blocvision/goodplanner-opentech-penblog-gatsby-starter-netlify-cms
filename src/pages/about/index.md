@@ -14,6 +14,6 @@ title: 선한기획자 박현준입니다.
 
 감사합니다.~
 
-![hyunjoonpark](/img/hyunjoonpark.jpg =250x)
+![hyunjoonpark](/img/hyunjoonpark.jpg)
 
 
