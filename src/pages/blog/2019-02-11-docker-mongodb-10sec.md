@@ -16,19 +16,18 @@ docker run --name mongodb-nodejs -d -p 27017:27017 mongo --noauth --bind_ip=0.0.
 ```
 
 끝 ! ~ 클라이언트 접속 됨.~
-<<<<<<< HEAD
+
 아이디/비번 없음.
 
-클라이언트는 : mongodb compass community 로 ~
-
-https://www.mongodb.com/download-center/compass?jmp=hero
-
-=======
+---
 
 클라이언트는 : mongodb compass community 로 ~
 https://www.mongodb.com/download-center/compass?jmp=hero
->>>>>>> 941342866ebbabfd9232f036b36d79f0568287ac
+
+편의상 윈도우용
 mongodb-compass-community-1.16.3-win32-x64.exe
+
+---
 
 컨테이너 내부에 들어가 보려면 ?
 
