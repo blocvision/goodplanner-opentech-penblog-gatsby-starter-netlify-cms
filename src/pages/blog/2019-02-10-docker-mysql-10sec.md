@@ -12,7 +12,7 @@ tags:
 
 
 ```bash
-docker run -P 3306:3306--name mariadb-nodejs -e MYSQL_ROOT_PASSWORD=root -d mariadb
+docker run -p 3306:3306--name mariadb-nodejs -e MYSQL_ROOT_PASSWORD=root -d mariadb
 ```
 
 끝 ! ~ 클라이언트 접속 됨.~
